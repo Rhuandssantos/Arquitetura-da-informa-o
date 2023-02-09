@@ -37,8 +37,8 @@ body{
     background: linear-gradient(
       to top,
       yellow 0%,
-      yellow 43.8%,
-      green 43.8%,
+      yellow 45%,
+      green 45%,
       green 100%
     );
   }
